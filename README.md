@@ -25,3 +25,9 @@ Install Scapy:
 
 ```bash
 pip install scapy
+## Usage
+
+Run the sniffer with administrator privileges:
+
+```bash
+sudo python3 sniffer.py
