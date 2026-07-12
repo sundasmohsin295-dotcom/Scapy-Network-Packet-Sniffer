@@ -23,8 +23,9 @@ This tool captures live network packets and displays important information such 
 
 Install Scapy:
 
-```bash
+bash
 pip install scapy
+
 ## Usage
 
 Run the sniffer with administrator privileges:
