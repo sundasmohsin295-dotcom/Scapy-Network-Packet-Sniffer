@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Python environment, bytecode, and packet-capture output
+.venv/
+__pycache__/
+*.py[cod]
+captured_packets.csv
